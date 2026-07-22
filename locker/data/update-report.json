@@ -4984,10 +4984,6 @@
         "detail": "Kyurem Black Pants|3698"
       },
       {
-        "code": "missing-translation",
-        "detail": "Leafeon Pants|5449"
-      },
-      {
         "code": "missing-where",
         "detail": "Leafeon Pants|5449"
       },
@@ -6500,10 +6496,6 @@
         "detail": "Leafeon Body (Shiny)|5747"
       },
       {
-        "code": "missing-translation",
-        "detail": "Leafeon Jacket|5447"
-      },
-      {
         "code": "missing-where",
         "detail": "Leafeon Jacket|5447"
       },
@@ -7772,10 +7764,6 @@
         "detail": "Lance Cloak|4388"
       },
       {
-        "code": "missing-translation",
-        "detail": "Leafeon Robe|5445"
-      },
-      {
         "code": "missing-where",
         "detail": "Leafeon Robe|5445"
       },
@@ -8770,10 +8758,6 @@
       {
         "code": "missing-where",
         "detail": "Lance Shoes|4387"
-      },
-      {
-        "code": "missing-translation",
-        "detail": "Leafeon Boots|5446"
       },
       {
         "code": "missing-where",
@@ -11138,10 +11122,6 @@
       {
         "code": "missing-where",
         "detail": "Kyurem Black Tail Aura|3700"
-      },
-      {
-        "code": "missing-translation",
-        "detail": "Leafeon Tail|5448"
       },
       {
         "code": "missing-where",
